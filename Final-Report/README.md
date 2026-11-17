@@ -1,7 +1,7 @@
 # WIL Final Report
 
-**Student:** Kasongo · **Placement:** Tobb Technologies · **Supervisor:** Mr Bernard Sibanda (CTO)
-**Period:** 3 August 2026 to 30 October 2026 *(confirm)*
+**Student:** Kasongo · **Placement:** Tobb Technologies · **Supervisor:** Mr Bernard Sibanda (CTO) and Mr Fredrick Kato
+**Period:** 3 August 2026 to 30 October 2026 
 
 ## Summary
 Over 19 logged working days I contributed to six projects covering software testing, system design documentation, secure application development, web deployment and marketing strategy, supported by operating-systems, hardware and Haskell practice.
