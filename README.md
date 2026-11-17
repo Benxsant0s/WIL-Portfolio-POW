@@ -69,4 +69,3 @@ I am a BSc IT student who completed a WIL placement at Tobb Technologies, a bloc
 
 ## Contact
 - Email: benedictmonsemvula@outlook.com
-- GitHub: **[your GitHub URL]**
