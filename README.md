@@ -3,7 +3,7 @@
 ![Banner](assets/banner.png)
 
 **Role:** Work-Integrated Learning (WIL) Intern · **Placement:** Tobb Technologies
-**Period:** 3 August 2026 to 30 October 2026 *(confirm)* · **Supervisor:** Mr Bernard Sibanda, CTO and WIL Facilitator Fredrick Kato
+**Period:** 3 August 2026 to 30 October 2026· **Supervisor:** Mr Bernard Sibanda, CTO and WIL Facilitator Fredrick Kato
 
 ## Introduction
 I am a BSc IT student who completed a WIL placement at Tobb Technologies, a blockchain solutions company. I tested and documented the Coxy wallet, secured and extended the CoxyAI Donations App, deployed the Zonke freelance platform and proposed a marketing tool for the company. I enjoy turning real business needs into working, well-documented software.
