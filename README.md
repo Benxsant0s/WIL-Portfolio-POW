@@ -1,12 +1,12 @@
-# WIL Portfolio: Kasongo
+# WIL Portfolio: Benedict Monsemvula
 
 ![Banner](assets/banner.png)
 
 **Role:** Work-Integrated Learning (WIL) Intern · **Placement:** Tobb Technologies
-**Period:** 3 August 2026 to 30 October 2026 *(confirm)* · **Supervisor:** Mr Bernard Sibanda, CTO and WIL Facilitator
+**Period:** 3 August 2026 to 30 October 2026 *(confirm)* · **Supervisor:** Mr Bernard Sibanda, CTO and WIL Facilitator Fredrick Kato
 
 ## Introduction
-I am a **[your qualification]** student who completed a WIL placement at Tobb Technologies, a blockchain solutions company. I tested and documented the Coxy wallet, secured and extended the CoxyAI Donations App, deployed the Zonke freelance platform and proposed a marketing tool for the company. I enjoy turning real business needs into working, well-documented software.
+I am a BSc IT student who completed a WIL placement at Tobb Technologies, a blockchain solutions company. I tested and documented the Coxy wallet, secured and extended the CoxyAI Donations App, deployed the Zonke freelance platform and proposed a marketing tool for the company. I enjoy turning real business needs into working, well-documented software.
 
 ## At a glance
 | | |
@@ -21,7 +21,7 @@ I am a **[your qualification]** student who completed a WIL placement at Tobb Te
 |---|---|---|
 | ![Donations dashboard](assets/donations-dashboard.png) | ![Zonke live](assets/zonke-live.png) | ![Readiness tool](assets/readiness-tool.png) |
 
-*(Add these three images to `assets/`, or replace with a demo GIF.)*
+
 
 ## Portfolio index
 - [Daily-Log](Daily-Log/): one folder per day worked
@@ -68,6 +68,5 @@ I am a **[your qualification]** student who completed a WIL placement at Tobb Te
 | 19 | [2026-10-30](Daily-Log/2026-10-30/README.md) | Marketing project proposal: Digital Readiness Check |
 
 ## Contact
-- Email: **[your email]**
-- LinkedIn: **[your LinkedIn URL]**
+- Email: benedictmonsemvula@outlook.com
 - GitHub: **[your GitHub URL]**
