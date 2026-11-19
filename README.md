@@ -1,6 +1,6 @@
 # WIL Portfolio: Benedict Monsemvula
 
-![Banner](assets/banner.png)
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/9a44b9d0-75b7-4818-af0a-536e8868649c" />
 
 **Role:** Work-Integrated Learning (WIL) Intern · **Placement:** Tobb Technologies
 **Period:** 3 August 2026 to 30 October 2026· **Supervisor:** Mr Bernard Sibanda, CTO and WIL Facilitator Fredrick Kato
