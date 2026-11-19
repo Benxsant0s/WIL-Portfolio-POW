@@ -119,8 +119,8 @@ data/                               SQLite database lives here
 
 | Name | Role |
 |---|---|
-| Benedict | [Backend] |
-| Kamo | [Database] |
-| Vanessa | [User interface] |
+| Benedict | Backend |
+| Kamo | Database |
+| Vanessa | User interface |
 
 
