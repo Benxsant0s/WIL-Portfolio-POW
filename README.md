@@ -19,7 +19,7 @@ I am a BSc IT student who completed a WIL placement at Tobb Technologies, a bloc
 ## Screenshots
 | | | |
 |---|---|---|
-| ![Zonke live]<img width="836" height="437" alt="github banner 2" src="https://github.com/user-attachments/assets/3c9d67a0-e887-4f75-848b-088881ff5478" />| <img width="835" height="436" alt="github banner 1" src="https://github.com/user-attachments/assets/6d516a99-dfc7-4d80-ba7c-175550492556" /> |
+| <img width="836" height="437" alt="github banner 2" src="https://github.com/user-attachments/assets/3c9d67a0-e887-4f75-848b-088881ff5478" />| <img width="835" height="436" alt="github banner 1" src="https://github.com/user-attachments/assets/6d516a99-dfc7-4d80-ba7c-175550492556" /> |
 
 
 
