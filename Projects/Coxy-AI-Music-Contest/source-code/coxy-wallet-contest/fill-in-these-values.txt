@@ -1,0 +1,55 @@
+FILL IN THESE VALUES
+=====================
+Copy each value below into backend/config/config.php (create it by
+copying backend/config/config.example.php first, if you haven't).
+Everything else in that file can stay as-is.
+
+
+1. YOUR CONTEST'S CARDANO WALLET ADDRESS
+   (the address that should receive the 10 ADA entry fees)
+
+   Goes in: contest_wallet_address
+
+   Your value: ____________________________________________
+
+
+2. BLOCKFROST PROJECT ID
+   (free account at https://blockfrost.io — used to verify ADA
+   payments actually happened on-chain)
+
+   Goes in: blockfrost_api_key
+
+   Your value: ____________________________________________
+
+   Also pick ONE of these for blockfrost_base_url, matching the
+   network your Blockfrost project is set to:
+     Real ADA (Mainnet):  https://cardano-mainnet.blockfrost.io/api/v0
+     Free test ADA (Preprod): https://cardano-preprod.blockfrost.io/api/v0
+
+   Which one am I using? ____________________________________
+
+
+3. EMAIL (SMTP) — for entry confirmations & results
+   Ask your email provider (or hosting company) for these, or use
+   a service like Gmail, SendGrid, or your web host's mail server.
+
+   SMTP host       (mail > host):       ____________________________
+   SMTP port       (mail > port):       ____________________________  (usually 587)
+   SMTP username   (mail > username):   ____________________________
+   SMTP password   (mail > password):   ____________________________
+   "From" email    (mail > from_email): ____________________________
+   "From" name     (mail > from_name):  ____________________________  (e.g. "Coxy Wallet AI Music Contest")
+
+
+THAT'S IT — everything else in config.php (file size limits, allowed
+audio formats, database path) is already set to sensible defaults
+and doesn't need to change unless you want something different.
+
+
+ONE MORE THING TO DO (not in config.php):
+Before anything will work, install PHPMailer so emails can send:
+  From inside the backend/ folder, run:
+    composer require phpmailer/phpmailer
+
+And build the database file if you haven't already:
+    sqlite3 backend/data/contest.db < backend/schema.sql
