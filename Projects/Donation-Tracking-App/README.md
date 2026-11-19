@@ -119,8 +119,8 @@ data/                               SQLite database lives here
 
 | Name | Role |
 |---|---|
-| [Name] | [e.g. Backend / database] |
-| [Name] | [e.g. User interface] |
-| [Name] | [e.g. Testing and documentation] |
+| Benedict | [Backend] |
+| Kamo | [Database] |
+| Vanessa | [User interface] |
 
-*Created as part of Work Integrated Learning at Richfield – [Module name].*
+
