@@ -1,6 +1,6 @@
 # WIL Final Report
 
-**Student:** Kasongo · **Placement:** Tobb Technologies · **Supervisor:** Mr Bernard Sibanda (CTO) and Mr Fredrick Kato
+**Student:** Benedict Monsemvula · **Placement:** Tobb Technologies · **Supervisor:** Mr Bernard Sibanda (CTO) and Mr Fredrick Kato
 **Period:** 3 August 2026 to 30 October 2026 
 
 ## Summary
