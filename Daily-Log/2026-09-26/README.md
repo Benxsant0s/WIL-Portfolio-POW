@@ -10,9 +10,6 @@
 ## Tools used
 Google Meet, Git, GitHub
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-09-26
-
 ## Related
 - [Project folder](../../Projects/Zonke-Contribution/README.md)
 

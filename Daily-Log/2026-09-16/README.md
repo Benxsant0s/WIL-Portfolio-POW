@@ -11,9 +11,6 @@
 ## Tools used
 Google Meet, CoxyAI Donations App
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-09-16
-
 ## Related
 - [Project folder](../../Projects/Donation-Tracking-App/README.md)
 

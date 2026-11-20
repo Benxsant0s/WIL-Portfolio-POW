@@ -13,9 +13,6 @@
 ## Tools used
 CoxyAI Donations App, Git, GitHub
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-09-19
-
 ## Related
 - [Project folder](../../Projects/Donation-Tracking-App/README.md)
 

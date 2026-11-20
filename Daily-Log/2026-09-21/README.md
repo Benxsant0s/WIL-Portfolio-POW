@@ -10,9 +10,6 @@
 ## Tools used
 Haskell, PHP, Cardano, Mesh SDK, Markdown
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-09-21
-
 ## Related
 - [Project folder](../../Projects/Coxy-AI-Music-Contest/README.md)
 

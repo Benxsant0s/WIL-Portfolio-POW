@@ -10,9 +10,6 @@
 ## Tools used
 Markdown, Cardano wallet concepts
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-09-11
-
 ## Related
 - [Project folder](../../Projects/Coxy-AI-Music-Contest/README.md)
 

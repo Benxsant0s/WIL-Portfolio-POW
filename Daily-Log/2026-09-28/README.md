@@ -9,9 +9,6 @@
 ## Tools used
 Markdown, Test-case design
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-09-28
-
 ## Related
 - [Project folder](../../Projects/Coxy-AI-Music-Contest/README.md)
 

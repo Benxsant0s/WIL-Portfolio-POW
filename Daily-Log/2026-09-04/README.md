@@ -9,9 +9,6 @@
 ## Tools used
 Git, GitHub
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-09-04
-
 ## Related
 - [Project folder](../../Projects/Coxy-Wallet-Testing/README.md)
 

@@ -11,9 +11,6 @@
 ## Tools used
 cPanel, File Manager, Zonke, PHP
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-10-06
-
 ## Related
 - [Project folder](../../Projects/Zonke-Contribution/README.md)
 

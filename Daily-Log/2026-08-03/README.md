@@ -11,9 +11,6 @@
 ## Tools used
 Ubuntu Linux, Bootable USB, Acer laptop
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-08-03
-
 ## Related
 - [Documentation folder](../../Documentation/linux-and-hardware-notes.md)
 

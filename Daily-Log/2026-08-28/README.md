@@ -10,9 +10,6 @@
 ## Tools used
 Coxy wallet, Manual testing, Testing documentation
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-08-28
-
 ## Related
 - [Project folder](../../Projects/Coxy-Wallet-Testing/README.md)
 

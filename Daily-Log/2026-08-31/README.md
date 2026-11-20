@@ -10,9 +10,6 @@
 ## Tools used
 Markdown / testing documentation, Coxy wallet
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-08-31
-
 ## Related
 - [Project folder](../../Projects/Coxy-Wallet-Testing/README.md)
 

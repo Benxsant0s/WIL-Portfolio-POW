@@ -9,9 +9,6 @@
 ## Tools used
 Markdown, User-journey mapping
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-09-14
-
 ## Related
 - [Project folder](../../Projects/Coxy-AI-Music-Contest/README.md)
 

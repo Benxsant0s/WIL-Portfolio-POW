@@ -10,9 +10,6 @@
 ## Tools used
 Microsoft Teams, Laravel
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-10-26
-
 ## Related
 - [Project folder](../../Projects/Zonke-Contribution/README.md)
 

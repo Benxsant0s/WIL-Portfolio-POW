@@ -10,9 +10,6 @@
 ## Tools used
 Screwdriver set, BIOS/firmware, Acer PC
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-08-21
-
 ## Related
 - [Documentation folder](../../Documentation/linux-and-hardware-notes.md)
 

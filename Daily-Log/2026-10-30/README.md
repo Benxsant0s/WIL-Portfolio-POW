@@ -12,9 +12,6 @@
 ## Tools used
 GitHub, Markdown, Web research
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-10-30
-
 ## Related
 - [Project folder](../../Projects/Digital-Readiness-Check/README.md)
 

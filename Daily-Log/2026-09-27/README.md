@@ -9,9 +9,6 @@
 ## Tools used
 Markdown, ARIA, Responsive design
 
-## Commit / PR links
-- [ ] Add the commit or PR link(s) dated 2026-09-27
-
 ## Related
 - [Project folder](../../Projects/Coxy-AI-Music-Contest/README.md)
 
