@@ -6,20 +6,20 @@
 **Period:** 3 August 2026 to 30 October 2026· **Supervisor:** Mr Bernard Sibanda, CTO and WIL Facilitator Fredrick Kato
 
 ## Introduction
-I am a BSc IT student who completed a WIL placement at Tobb Technologies, a blockchain solutions company. I tested and documented the Coxy wallet, secured and extended the CoxyAI Donations App, deployed the Zonke freelance platform and proposed a marketing tool for the company. I enjoy turning real business needs into working, well-documented software.
+I am a BSc IT student who completed a WIL placement at Tobb Technologies, a blockchain solutions company. I tested and documented the Coxy wallet, secured and extended the CoxyAI Donations App, deployed and diagnosed the Zonke Laravel marketplace, and developed a Digital Readiness Check prototype.
 
 ## At a glance
 | | |
 |---|---|
 | **Projects** | 6 |
-| **Days logged** | 19 |
+| **Days logged** | 20 |
 | **Tech stack** | Haskell, Cardano (Mesh SDK), PHP, Laravel, cPanel, Ubuntu/Linux, Git/GitHub |
 | **Meetings presented** | CTO presentation, project scope discussion, group presentation, Laravel session |
 
 ## Screenshots
 | | | |
 |---|---|---|
-| <img width="836" height="437" alt="github banner 2" src="https://github.com/user-attachments/assets/3c9d67a0-e887-4f75-848b-088881ff5478" />| <img width="835" height="436" alt="github banner 1" src="https://github.com/user-attachments/assets/6d516a99-dfc7-4d80-ba7c-175550492556" /> |
+| <img width="836" height="437" alt="github banner 2" src="https://github.com/user-attachments/assets/3c9d67a0-e887-4f81-848b-088881ff5478" />| <img width="835" height="436" alt="github banner 1" src="https://github.com/user-attachments/assets/3c9d67a0-e887-4f81-848b-088881ff5478" />|
 
 
 
@@ -41,7 +41,7 @@ I am a BSc IT student who completed a WIL placement at Tobb Technologies, a bloc
 - Fixed **4 security vulnerabilities** (XSS, exposed database, unsafe CORS, missing validation) in the Donations App
 - Shipped **6 new features** in the Donations App, including CSV export and search/filtering
 - Wrote test cases across **9 areas** for the AI Music Contest
-- Deployed the **Zonke** platform to the web via cPanel
+- Deployed and diagnosed the **Zonke** Laravel platform through DirectAdmin hosting
 - Built a **24-question, 5-minute** Digital Readiness Check prototype
 
 ## Daily-Log index
@@ -66,6 +66,7 @@ I am a BSc IT student who completed a WIL placement at Tobb Technologies, a bloc
 | 17 | [2026-10-06](Daily-Log/2026-10-06/README.md) | Deploying the Zonke site with cPanel |
 | 18 | [2026-10-26](Daily-Log/2026-10-26/README.md) | Laravel introduction and Zonke redevelopment direction |
 | 19 | [2026-10-30](Daily-Log/2026-10-30/README.md) | Marketing project proposal: Digital Readiness Check |
+| 20 | [2026-11-20](Daily-Log/2026-11-20/README.md) | Zonke hosting diagnosis and Laravel deployment |
 
 ## Contact
 - Email: benedictmonsemvula@outlook.com
