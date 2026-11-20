@@ -10,13 +10,9 @@
 ## Tools used
 Google Meet
 
-## Proof of work
-- [ ] `meeting-attendance.png`: Meeting screenshot
-- [ ] `meeting-notes-scope.png`: Notes on scope and tasks
-- [ ] `work-plan.png`: Resulting work plan
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-09-18
 
 ## Related
 - [Project folder](../../Projects/Zonke-Contribution/README.md)
+

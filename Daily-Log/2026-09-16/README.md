@@ -11,13 +11,9 @@
 ## Tools used
 Google Meet, CoxyAI Donations App
 
-## Proof of work
-- [ ] `meeting-presentation-slide.png`: Presentation shown
-- [ ] `donations-app-demo.png`: Demo of the app
-- [ ] `feedback-notes.png`: Feedback notes
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-09-16
 
 ## Related
 - [Project folder](../../Projects/Donation-Tracking-App/README.md)
+

@@ -10,13 +10,9 @@
 ## Tools used
 Markdown, Cardano wallet concepts
 
-## Proof of work
-- [ ] `contest-purpose-doc.png`: Purpose section
-- [ ] `contest-objectives-doc.png`: Objectives section
-- [ ] `github-commit-contest-purpose.png`: Commit for the document
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-09-11
 
 ## Related
 - [Project folder](../../Projects/Coxy-AI-Music-Contest/README.md)
+

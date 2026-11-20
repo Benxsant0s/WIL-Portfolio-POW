@@ -9,13 +9,9 @@
 ## Tools used
 Markdown, User-journey mapping
 
-## Proof of work
-- [ ] `user-journey-doc.png`: User journey document
-- [ ] `user-journey-steps.png`: Step-by-step flow
-- [ ] `github-commit-user-journey.png`: Commit for the document
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-09-14
 
 ## Related
 - [Project folder](../../Projects/Coxy-AI-Music-Contest/README.md)
+

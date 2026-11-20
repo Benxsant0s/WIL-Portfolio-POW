@@ -9,14 +9,9 @@
 ## Tools used
 Markdown, Test-case design
 
-## Proof of work
-- [ ] `test-cases-table.png`: Test case table
-- [ ] `payment-upload-test-cases.png`: Payment and upload cases
-- [ ] `improvement-recommendations.png`: Recommendations
-- [ ] `github-commit-test-cases.png`: Commit for the document
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-09-28
 
 ## Related
 - [Project folder](../../Projects/Coxy-AI-Music-Contest/README.md)
+

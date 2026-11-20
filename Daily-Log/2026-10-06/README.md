@@ -11,14 +11,9 @@
 ## Tools used
 cPanel, File Manager, Zonke, PHP
 
-## Proof of work
-- [ ] `cpanel-file-manager.png`: Source files in cPanel
-- [ ] `zonke-file-paths-fixed.png`: Corrected file paths
-- [ ] `zonke-live-site.png`: Site live
-- [ ] `zonke-profile-upload-test.png`: Profile image/PDF upload test
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-10-06
 
 ## Related
 - [Project folder](../../Projects/Zonke-Contribution/README.md)
+

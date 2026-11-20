@@ -10,14 +10,9 @@
 ## Tools used
 Coxy wallet, Manual testing, Testing documentation
 
-## Proof of work
-- [ ] `coxy-wallet-home.png`: Wallet pages under test
-- [ ] `coxy-wallet-send-receive-test.png`: Send/receive feature check
-- [ ] `coxy-wallet-issue-found.png`: Issue captured
-- [ ] `testing-documentation.png`: Testing documentation entries
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-08-28
 
 ## Related
 - [Project folder](../../Projects/Coxy-Wallet-Testing/README.md)
+

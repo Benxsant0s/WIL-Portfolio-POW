@@ -10,14 +10,9 @@
 ## Tools used
 Haskell, PHP, Cardano, Mesh SDK, Markdown
 
-## Proof of work
-- [ ] `tech-stack-doc.png`: Technology section
-- [ ] `backend-structure-doc.png`: Backend structure
-- [ ] `features-doc.png`: Features documented
-- [ ] `github-commit-contest-tech.png`: Commit for the document
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-09-21
 
 ## Related
 - [Project folder](../../Projects/Coxy-AI-Music-Contest/README.md)
+

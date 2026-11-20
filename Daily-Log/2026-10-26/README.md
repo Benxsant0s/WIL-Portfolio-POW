@@ -10,13 +10,9 @@
 ## Tools used
 Microsoft Teams, Laravel
 
-## Proof of work
-- [ ] `teams-laravel-session.png`: Teams session
-- [ ] `laravel-notes.png`: Notes from the session
-- [ ] `team-task-allocation.png`: Team scope after the change
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-10-26
 
 ## Related
 - [Project folder](../../Projects/Zonke-Contribution/README.md)
+

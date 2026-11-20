@@ -9,13 +9,9 @@
 ## Tools used
 Markdown, ARIA, Responsive design
 
-## Proof of work
-- [ ] `accessibility-doc.png`: Accessibility requirements
-- [ ] `responsive-doc.png`: Responsive requirements
-- [ ] `github-commit-accessibility.png`: Commit for the document
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-09-27
 
 ## Related
 - [Project folder](../../Projects/Coxy-AI-Music-Contest/README.md)
+

@@ -9,13 +9,9 @@
 ## Tools used
 Git, GitHub
 
-## Proof of work
-- [ ] `github-testing-docs-folder.png`: Folder in the repository
-- [ ] `github-commit-testing-docs.png`: Commit for the upload
-- [ ] `github-commit-history.png`: Commit history showing the date
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-09-04
 
 ## Related
 - [Project folder](../../Projects/Coxy-Wallet-Testing/README.md)
+

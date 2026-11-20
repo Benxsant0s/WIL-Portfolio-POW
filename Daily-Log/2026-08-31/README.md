@@ -10,13 +10,9 @@
 ## Tools used
 Markdown / testing documentation, Coxy wallet
 
-## Proof of work
-- [ ] `issue-report-overview.png`: Issue report overview
-- [ ] `issue-with-suggested-fix.png`: Sample issue with suggested solution
-- [ ] `issue-list-summary.png`: Summary of all issues
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-08-31
 
 ## Related
 - [Project folder](../../Projects/Coxy-Wallet-Testing/README.md)
+

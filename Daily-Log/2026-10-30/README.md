@@ -12,14 +12,9 @@
 ## Tools used
 GitHub, Markdown, Web research
 
-## Proof of work
-- [ ] `proposal-repo-structure.png`: Repository structure
-- [ ] `readiness-tool-prototype.png`: Prototype running
-- [ ] `readiness-score-result.png`: Score result
-- [ ] `evidence-sources-folder.png`: Evidence folder
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-10-30
 
 ## Related
 - [Project folder](../../Projects/Digital-Readiness-Check/README.md)
+

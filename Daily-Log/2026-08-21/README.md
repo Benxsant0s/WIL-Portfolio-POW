@@ -10,12 +10,9 @@
 ## Tools used
 Screwdriver set, BIOS/firmware, Acer PC
 
-## Proof of work
-- [ ] `acer-pc-opened.jpg`: Opened PC, components inspected
-
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-08-21
 
 ## Related
 - [Documentation folder](../../Documentation/linux-and-hardware-notes.md)
+

@@ -13,15 +13,9 @@
 ## Tools used
 CoxyAI Donations App, Git, GitHub
 
-## Proof of work
-- [ ] `xss-fix-commit.png`: XSS fix commit
-- [ ] `database-access-blocked.png`: Database file no longer public
-- [ ] `validation-errors.png`: Input validation in action
-- [ ] `dashboard-statistics.png`: Summary statistics and purpose breakdown
-- [ ] `light-dark-interface.png`: Light/dark interface
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-09-19
 
 ## Related
 - [Project folder](../../Projects/Donation-Tracking-App/README.md)
+

@@ -10,13 +10,9 @@
 ## Tools used
 Google Meet, Git, GitHub
 
-## Proof of work
-- [ ] `group-presentation.png`: Group presentation
-- [ ] `document-upload-fix.png`: Document upload troubleshooting
-- [ ] `merge-integration-commit.png`: Integration commit
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-09-26
 
 ## Related
 - [Project folder](../../Projects/Zonke-Contribution/README.md)
+

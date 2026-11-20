@@ -11,13 +11,9 @@
 ## Tools used
 Ubuntu Linux, Bootable USB, Acer laptop
 
-## Proof of work
-- [ ] `ubuntu-usb-created.png`: Bootable USB created
-- [ ] `ubuntu-installer-running.png`: Installer on the Acer laptop
-- [ ] `ubuntu-desktop-loaded.png`: Finished install, desktop loaded
-
 ## Commit / PR links
 - [ ] Add the commit or PR link(s) dated 2026-08-03
 
 ## Related
 - [Documentation folder](../../Documentation/linux-and-hardware-notes.md)
+
